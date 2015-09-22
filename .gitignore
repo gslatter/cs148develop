@@ -1,0 +1,9 @@
+vim .gitignore
+i
+.htacess
+.user.ini
+pass.php
+
+esc
+:
+wq
